@@ -1,3 +1,3 @@
 # movieRating
 
-App fro movie rating using JQuery
+App for movie rating using JQuery
